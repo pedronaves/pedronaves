@@ -1,7 +1,9 @@
 # Pedro Naves 
 
 🖥 Fullstack Developer
+
 📐 Designer Gráfico
+
 🎸 Produção Cultural
 
 
