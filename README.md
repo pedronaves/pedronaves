@@ -6,26 +6,10 @@
 
 • Produção Cultural
 
+![Pedro Naves's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronaves&count_private=true&include_all_commits=true&show_icons=true)
 
-## Tecnologias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronaves)](https://github.com/anuraghazra/github-readme-stats)
 
-• Ruby on Rails
-
-• PHP
-
-• MySQL
-
-• PostgreSQL
-
-## Metodologias Usadas
-
-• Extreme Programmming XP
-
-• SCRUM
-
-• Kanban
-
-• Design Sprint
 
 ## Contatos
 
