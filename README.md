@@ -2,14 +2,17 @@
 
 • Fullstack Developer
 
-• Designer Gráfico
+Ruby on Rails, PHP, AWS, DigitalOcean, Heroku
 
-• Produção Cultural
+WIP: React, Go, Vuejs
+
+Adobe Illustrator, Photoshop, Sketch, Figma, Rhinoceros 3D
+
 
 ![Pedro Naves's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronaves&count_private=true&include_all_commits=true&show_icons=true)
 
 
-## Contatos
+## Say Hi!
 
 ![Generic badge](https://img.shields.io/badge/telefone-(62)&nbsp;99633&nbsp;4685-blue.svg)
 
