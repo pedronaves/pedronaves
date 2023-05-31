@@ -1,16 +1,11 @@
 # Pedro Naves 
+Fullstack Developer
 
-• Fullstack Developer
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronaves&layout=donut&count_private=true&include_all_commits=true&langs_count=10)
 
-Ruby on Rails, PHP, AWS, DigitalOcean, Heroku
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedronaves&count_private=true&include_all_commits=true&langs_count=10)
 
-WIP: React, Go, Vuejs
-
-Adobe Illustrator, Photoshop, Sketch, Figma, Rhinoceros 3D
-
-
-![Pedro Naves's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronaves&count_private=true&include_all_commits=true&show_icons=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronaves&count_private=true&include_all_commits=true&show_icons=true)
 
 ## Say Hi!
 
