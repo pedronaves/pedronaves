@@ -3,8 +3,6 @@ Fullstack Developer
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedronaves&count_private=true&include_all_commits=true&langs_count=10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronaves&count_private=true&include_all_commits=true&show_icons=true)
-
 ## Say Hi!
 
 ![Generic badge](https://img.shields.io/badge/telefone-(62)&nbsp;99633&nbsp;4685-blue.svg)
